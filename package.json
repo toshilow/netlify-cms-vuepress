@@ -1,0 +1,11 @@
+{
+  "name": "netlify-cms-vuepress",
+  "description": "This is example vuepress with netlify CMS",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^0.13.1"
+  }
+}
