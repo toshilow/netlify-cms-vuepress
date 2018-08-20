@@ -25,7 +25,7 @@ module.exports = {
       nav: [
         {
           text: 'Admin',
-          link: '/admin/index.html',
+          link: '/admin/#/',
         }
       ],
       lastUpdated: 'Last Updated'
