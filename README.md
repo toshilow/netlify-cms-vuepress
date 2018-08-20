@@ -10,4 +10,4 @@ yarn docs:dev
 ```
 
 ### Deploy
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/toshilow/netlify-cms-vuepress.git)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=hhttps://github.com/toshilow/netlify-cms-vuepress.git)
