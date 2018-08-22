@@ -22,12 +22,6 @@ module.exports = {
       docsDir: 'docs',
       repo: 'toshilow/netlify-cms-vuepress',
       sidebar: sb,
-      nav: [
-        {
-          text: 'Admin',
-          link: '/admin/#/',
-        }
-      ],
       lastUpdated: 'Last Updated'
     }
   }
