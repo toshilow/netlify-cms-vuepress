@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: ./assets/img/netlify_vuepress.png
-actionText: Try it Out →
+actionText: Go contents page →
 actionLink: /welcome
 features:
 - title: Markdown Editing 

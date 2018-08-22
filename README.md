@@ -1,14 +1,5 @@
 ## Netlify CMS example for vuepress 
 
-### Development
-```
-# Install npm modules
-yarn install
-
-# Start local dev server
-yarn docs:dev
-```
-
 ### Deploy
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/toshilow/netlify-cms-vuepress)
 
@@ -30,3 +21,14 @@ yarn docs:dev
 1. Push Invite users
 1. Input email address and push 'Send' button.
 1. Open invite email and set password.
+
+### Development
+Check out code from your repository
+
+```
+# Install npm modules
+yarn install
+
+# Start local dev server
+yarn docs:dev
+```
